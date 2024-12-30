@@ -1,6 +1,7 @@
 [![Go Report Card](https://goreportcard.com/badge/sigs.k8s.io/controller-runtime)](https://goreportcard.com/report/sigs.k8s.io/controller-runtime)
 [![godoc](https://pkg.go.dev/badge/sigs.k8s.io/controller-runtime)](https://pkg.go.dev/sigs.k8s.io/controller-runtime)
 
+#### 测试代码在`pkg/test`目录中
 # Kubernetes controller-runtime Project
 
 The Kubernetes controller-runtime Project is a set of go libraries for building
